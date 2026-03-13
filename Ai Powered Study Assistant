@@ -1,0 +1,43 @@
+# StudyAssistant – AI Powered Learning Assistant
+
+StudyAssistant is an AI-powered web application designed to help students learn more efficiently by providing instant explanations, study guidance, and intelligent responses to academic questions.
+
+The application uses Generative AI to simplify complex concepts and deliver personalized learning assistance directly through an interactive interface.
+
+🚀 Live Demo:
+https://huggingface.co/spaces/Shreyase/StudyAssistant
+
+✨ Features
+• AI-powered question answering for academic topics
+• Personalized explanations based on selected learning style
+• Fast and interactive interface using Gradio
+• Built using modern Generative AI APIs
+• Easy-to-use web interface for students
+
+🧠 Use Cases
+• Quick concept explanations
+• Exam preparation support
+• Homework help
+• Self-paced learning
+
+🛠 Tech Stack
+• Python
+• Generative AI API
+• Gradio
+• Hugging Face Spaces
+
+🌍 Deployment
+The application is deployed on Hugging Face Spaces for easy access and live interaction.
+
+📌 Future Improvements
+• Multi-subject support
+• PDF / notes summarization
+• Quiz generation
+• Voice-based study assistant
+
+🤝 Contributions
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+---
+
+Built with ❤️ to make studying smarter using AI.
